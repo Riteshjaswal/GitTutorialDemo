@@ -1,0 +1,4 @@
+This is version 1 of my Project.
+i want this to go into commit
+Changed by Ritesh
+This is changed now 
